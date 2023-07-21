@@ -1,0 +1,33 @@
+.container_1 {
+  display: flex;
+  justify-content: center;
+}
+.input_group {
+  display: block;
+  padding-top: 12px;
+}
+input {
+  display: block;
+}
+.del {
+  list-style: none;
+}
+.del li {
+  font-size: 18px;
+  height: 28px;
+  font-weight: 500;
+}
+.input_group input {
+    height: 28px;
+    padding: 0;
+    margin: 0;
+}
+.left {
+    width: 60%;
+}
+.denter {
+    text-align: center;
+}
+p {
+    font-size: 16px;
+}
